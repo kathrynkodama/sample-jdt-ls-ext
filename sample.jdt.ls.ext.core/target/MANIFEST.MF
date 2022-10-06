@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Sample JDT LS Ext Core Extension
+Bundle-SymbolicName: sample.jdt.ls.ext.core;singleton:=true
+Bundle-Version: 0.0.1.20221006-1329
+Bundle-Activator: core.internal.ExtensionActivator
+Require-Bundle: org.eclipse.core.runtime,org.eclipse.jdt.ls.core
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+
